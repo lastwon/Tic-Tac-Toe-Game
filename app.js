@@ -20,6 +20,7 @@ const players = [
     }
 ];
 
+
 const playerOneEditButton = document.getElementById("player-1-editButton"); // button to edit name
 const playerTwoEditButton = document.getElementById("player-2-editButton"); // button to edit name
 const startNewGameElement = document.getElementById("start-new-game");

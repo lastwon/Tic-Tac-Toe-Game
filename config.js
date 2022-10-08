@@ -14,6 +14,7 @@ function cancelButtonClicked() {
     formElement.firstElementChild.lastElementChild.value = "";
 }
 
+
 // save name function and validation
 function saveEnteredName(event) {
     event.preventDefault();
